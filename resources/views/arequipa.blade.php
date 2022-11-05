@@ -24,7 +24,27 @@
     </head>
     
     <body>
-           
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                    <img src="https://media.admagazine.com/photos/627e8456bdffe6073f3d1058/16:9/w_2560%2Cc_limit/GettyImages-1156132465.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="https://media.traveler.es/photos/61376ddacb06ad0f20e12713/16:9/w_1280,c_limit/143246.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="https://enviajes.cl/wp-content/uploads/2022/04/Peru-lugares-Arequipa-Enviajes.jpg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
     </body>
 
 </html>

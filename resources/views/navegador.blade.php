@@ -39,10 +39,10 @@
                                 <a class="nav-link" href="http://127.0.0.1:8000/huanuco">HUANUCO</a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link" href="#">TACNA</a>
+                                <a class="nav-link" href="http://127.0.0.1:8000/tacna">TACNA</a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link" href="#">AREQUIPA</a>
+                                <a class="nav-link" href="http://127.0.0.1:8000/arequipa">AREQUIPA</a>
                                 </li>
                             </ul>
                             </div>

@@ -24,7 +24,27 @@
     </head>
     
     <body>
-           
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                        <img src="https://dataw.sfo3.digitaloceanspaces.com/wp-content/uploads/2021/08/23072809/tacna.jpeg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="https://elcomercio.pe/resizer/Jym30YEAHJvUp4mpMhg-t2c6an0=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ULQ645X6URFCFHXEFDQOVLUTZA.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="https://images.adsttc.com/media/images/5715/3032/e58e/ce21/9f00/0006/medium_jpg/Teatro_Municipal_y_edificio_Protectora_-_Iquique.jpg?1461006368" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
     </body>
 
 </html>
