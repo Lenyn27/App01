@@ -20,3 +20,20 @@ Route::get('/', function () {
 Route::get('/cusco', function () {
     return view('cusco');
 });
+
+Route::get('/huanuco', function () {
+    return view('huanuco');
+});
+
+Route::get('/tacna', function () {
+    return view('tacna');
+});
+
+Route::get('/navegador', function () {
+    return view('navegador');
+});
+
+Route::get('/arequipa', function () {
+    return view('arequipa');
+});
+
